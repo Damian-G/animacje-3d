@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Fajerwerki</title>
+    <style>
+        body { margin: 0; overflow: hidden; background: #000; font-family: sans-serif; }
+        canvas { display: block; }
+        #suwaki {
+            position: fixed;
+            margin: 10px;
+            background: rgba(0, 0, 0, 0.7);
+            color: white;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ffffff;
+        }
+        .suwak { margin-bottom: 10px; }
+        label { display: block; font-size: 12px; margin-bottom: 5px; }
+    </style>
+</head>
+<body>
+
+    <div id="suwaki">
+        <div class="suwak">
+            <label>Grawitacja: <span id="gravVal">0.15</span></label>
+            <input type="range" id="gravSlider" min="0.01" max="0.5" step="0.01" value="0.15">
+        </div>
+        <div class="suwak">
+            <label>Ilość cząsteczek: <span id="countVal">100</span></label>
+            <input type="range" id="countSlider" min="10" max="300" step="10" value="100">
+        </div>
+    </div>
+
+    <canvas id="canvas"></canvas>
+
+    <script src="script1.js"></script>
+</body>
+</html>
