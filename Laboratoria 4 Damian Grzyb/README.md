@@ -1,0 +1,1 @@
+![Podgląd stokrotek](stokrotka.png)
