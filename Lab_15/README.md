@@ -1,4 +1,9 @@
 # Projekt Końcowy - Miasto Nocą
+
+[![](https://img.shields.io/badge/Blender-4.x-orange?style=for-the-badge&logo=blender&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)](#)
+[![](https://img.shields.io/badge/Status-Gotowy%20do%20oceny-success?style=for-the-badge)](#)
+
 **Kurs:** Systemy Animacji Komputerowej  
 **Autor:** [Damian Grzyb]  
 **Technologia:** Blender 4.x (Python bpy + GUI)  
