@@ -18,7 +18,7 @@ Kluczowe elementy budujące nastrój sceny:
 * **Mokra nawierzchnia:** Zaawansowany materiał chodnika i asfaltu (wykorzystujący Principled BSDF oraz mapy Roughness/Specular), który realistycznie odbija światła otoczenia, tworząc efekt lustra na deszczowej ulicy.
 * **Dynamika:** Dynamiczny ruch dwóch mijających się pojazdów (sportowego McLarena oraz auta miejskiego) zestawiony z gęstym opadem deszczu reagującym na oświetlenie sceny.
 * **Proceduralność:** Pasy zieleni wzdłuż drogi zostały automatycznie obsiane zróżnicowaną roślinnością.
-
+* **Oprawa dźwiękowa (Audio): Dźwięk obejmujący przestrzenne odgłosy ulewnego deszczu w tle.
 ---
 
 ## 2. Instrukcja uruchomienia i renderowania
@@ -78,6 +78,7 @@ Projekt łączy modele zrobione ręcznie, elementy wygenerowane automatycznie pr
 3. **Asphalt Procedural** (Tekstura drogi) – BlenderKit (Licencja: Free / CC0)
 4. **Night/City HDRI** (Światło tła) – Poly Haven (Licencja: CC0)
    * *Uwaga:* Moc HDRI została mocno zmniejszona w opcjach *World*, aby utrzymać mroczny, nocny klimat sceny.
+5. Efekt dźwiękowy (rain.mp3) – Pixabay (Licencja: Pixabay Content License / Darmowe do użytku komercyjnego i niekomercyjnego).
 ---
 
 ## 5. Znane bugi i ograniczenia
