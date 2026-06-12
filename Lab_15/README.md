@@ -78,7 +78,7 @@ Projekt łączy modele zrobione ręcznie, elementy wygenerowane automatycznie pr
 3. **Asphalt Procedural** (Tekstura drogi) – BlenderKit (Licencja: Free / CC0)
 4. **Night/City HDRI** (Światło tła) – Poly Haven (Licencja: CC0)
    * *Uwaga:* Moc HDRI została mocno zmniejszona w opcjach *World*, aby utrzymać mroczny, nocny klimat sceny.
-5. Efekt dźwiękowy (rain.mp3) – Pixabay (Licencja: Pixabay Content License / Darmowe do użytku komercyjnego i niekomercyjnego).
+5. **Efekt dźwiękowy** (rain.mp3) – Pixabay (Licencja: Pixabay Content License / Darmowe do użytku komercyjnego i niekomercyjnego).
 ---
 
 ## 5. Znane bugi i ograniczenia
