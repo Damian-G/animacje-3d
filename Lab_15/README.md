@@ -18,7 +18,7 @@ Kluczowe elementy budujące nastrój sceny:
 * **Mokra nawierzchnia:** Zaawansowany materiał chodnika i asfaltu (wykorzystujący Principled BSDF oraz mapy Roughness/Specular), który realistycznie odbija światła otoczenia, tworząc efekt lustra na deszczowej ulicy.
 * **Dynamika:** Dynamiczny ruch dwóch mijających się pojazdów (sportowego McLarena oraz auta miejskiego) zestawiony z gęstym opadem deszczu reagującym na oświetlenie sceny.
 * **Proceduralność:** Pasy zieleni wzdłuż drogi zostały automatycznie obsiane zróżnicowaną roślinnością.
-* **Oprawa dźwiękowa (Audio): Dźwięk obejmujący przestrzenne odgłosy ulewnego deszczu w tle.
+* **Oprawa dźwiękowa** (Audio): Dźwięk obejmujący przestrzenne odgłosy ulewnego deszczu w tle.
 ---
 
 ## 2. Instrukcja uruchomienia i renderowania
